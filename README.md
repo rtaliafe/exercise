@@ -1,0 +1,2 @@
+# exercise
+Git class exercises
